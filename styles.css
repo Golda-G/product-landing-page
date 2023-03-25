@@ -151,7 +151,7 @@ nav > ul {
   height: 30px;
   margin: 15px 0;
   border: 0;
-  background-color: #f1c40f;
+  background-color: #2271a5;
 }
 
 #hero input[type='submit']:hover {
@@ -175,7 +175,7 @@ nav > ul {
   justify-content: center;
   height: 125px;
   width: 20vw;
-  color: darkorange;
+  color: rgb(16, 134, 189);
 }
 
 @media (max-width: 550px) {
@@ -261,12 +261,12 @@ nav > ul {
 .product > button {
   border: 0;
   margin: 15px 0;
-  background-color: #f1c40f;
+  background-color: #0d7de6;
   font-weight: 400;
 }
 
 .product > button:hover {
-  background-color: orange;
+  background-color: rgb(123, 220, 233);
   transition: background-color 1s;
 }
 
@@ -284,7 +284,7 @@ nav > ul {
 
 footer {
   margin-top: 30px;
-  background-color: #ddd;
+  background-color: #242121;
   padding: 20px;
 }
 
@@ -302,5 +302,5 @@ footer > span {
   display: flex;
   justify-content: flex-end;
   font-size: 0.9em;
-  color: #444;
+  color: #fffafa;
 }
