@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #eee;
+  background-color: #886464;
   font-family: 'Lato', sans-serif;
 }
 
@@ -20,11 +20,9 @@ li {
 }
 
 a {
-  color: #000;
+  color: #ffffff;
   text-decoration: none;
 }
-
-/** global classes styling **/
 
 .container {
   max-width: 1000px;
@@ -157,7 +155,7 @@ nav > ul {
 }
 
 #hero input[type='submit']:hover {
-  background-color: orange;
+  background-color: rgb(167, 197, 238);
   transition: background-color 1s;
 }
 
